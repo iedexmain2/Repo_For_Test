@@ -3,4 +3,4 @@ Spring_Simple
 For Test QA #####
 
 
-[![alt](http://nightly.codenvy-stg.com/factory/resources/factory-white.png)](http://nightly.codenvy-stg.com/ide-resources/share/project/ashmaraiev/SPRING)
+[![alt](https://codenvy-stg.com/factory/resources/factory-white.png)](https://codenvy-stg.com/ide-resources/share/project/artaleks9/SSPRING)
