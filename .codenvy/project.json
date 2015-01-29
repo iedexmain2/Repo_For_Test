@@ -1,1 +1,1 @@
-{"description":"QA","builders":{"default":"maven"},"type":"maven","attributes":{"language":["java"]}}
+{"builders":{"default":"maven"},"description":"QAzzzz","type":"maven","attributes":{"language":["java"]}}
